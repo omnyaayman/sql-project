@@ -66,4 +66,3 @@ GROUP BY product
 HAVING SUM(amount) > 5000;
 
 
--
