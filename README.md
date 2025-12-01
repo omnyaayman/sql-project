@@ -66,7 +66,4 @@ GROUP BY product
 HAVING SUM(amount) > 5000;
 
 
----
-  
-📧 *omnyaayman033@gmail.com*  
-🔗 LinkedIn: (حطي لينك
+-
